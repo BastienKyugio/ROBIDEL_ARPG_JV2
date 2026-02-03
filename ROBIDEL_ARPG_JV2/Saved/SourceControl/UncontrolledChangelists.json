@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Bastien/Documents/GitHub/ROBIDEL_ARPG_JV2/ROBIDEL_ARPG_JV2/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/Bastien/Documents/GitHub/ROBIDEL_ARPG_JV2/ROBIDEL_ARPG_JV2/Content/Blueprints/Data/BP_DA_Spell.uasset",
+				"C:/Users/Bastien/Documents/GitHub/ROBIDEL_ARPG_JV2/ROBIDEL_ARPG_JV2/Content/Data/Spells/DA_Spell_Speed.uasset",
+				"C:/Users/Bastien/Documents/GitHub/ROBIDEL_ARPG_JV2/ROBIDEL_ARPG_JV2/Content/Blueprints/BP_SpellComponent.uasset",
+				"C:/Users/Bastien/Documents/GitHub/ROBIDEL_ARPG_JV2/ROBIDEL_ARPG_JV2/Content/TopDown/Blueprints/BP_TopDownCharacterEnemy.uasset",
+				"C:/Users/Bastien/Documents/GitHub/ROBIDEL_ARPG_JV2/ROBIDEL_ARPG_JV2/Content/AI/BB_MainBehaviourBlackBoard.uasset",
+				"C:/Users/Bastien/Documents/GitHub/ROBIDEL_ARPG_JV2/ROBIDEL_ARPG_JV2/Content/AI/BT_MainBehaviour.uasset",
+				"C:/Users/Bastien/Documents/GitHub/ROBIDEL_ARPG_JV2/ROBIDEL_ARPG_JV2/Content/__ExternalActors__/TopDown/Lvl_TopDown/D/TG/U6B5W4TY6TG3TGPRV05K5R.uasset"
+			]
+		}
+	]
+}
